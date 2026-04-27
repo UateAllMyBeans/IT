@@ -3,109 +3,43 @@ IT infrastraktuur
 
 # IT Infrastructure Project
 
-<details>
-<summary><strong>Project Overview</strong></summary>
+# Disainiotsused ja põhjendused
 
-- School IT infrastructure solution  
-- Supports Windows and Linux clients  
-- High security configuration  
-- 1 Linux server + 1–2 clients  
-- 16 students (logical users)
-
-</details>
+## Operatsioonisüsteem – Linux server (Ubuntu)
+Linux serveri valisime, kuna see on avatud lähtekoodiga ja tasuta, mistõttu puuduvad litsentsikulud. Lisaks on see ressursisäästlik ning sobib hästi serverikeskkonda. 
 
 ---
 
-<details>
-<summary><strong>Infrastructure</strong></summary>
-
-- 1 Linux Server (Ubuntu)  
-- 1–2 Client machines (Windows/Linux)  
-- Internal network  
-- Static IP addressing  
-
-</details>
+## Staatiline IP-aadress
+Staatiline IP-aadressi valisime, kuna server peab olema alati kättesaadav sama aadressi kaudu. See tagab stabiilse ligipääsu teenustele, nagu failijagamine ja veebiserver, ning lihtsustab seadistamist ja vigade tuvastamist. 
 
 ---
 
-<details>
-<summary><strong>Network</strong></summary>
+## Sisemine võrk
+Sisemine võrgu valisime, kuna see eraldab süsteemi välisest internetist ning vähendab turvariske.
+---
 
-- Subnet: 192.168.1.0/24  
-- Server: 192.168.1.10  
-- Client 1: 192.168.1.11  
-- Client 2: 192.168.1.12  
-- Internal network (isolated)
-
-</details>
+## Failijagamise teenus
+Failijagamise teenuse valisime, kuna see võimaldab õpilastel faile lihtsalt jagada ja kasutada. Kõik failid paiknevad keskserveris, mis teeb haldamise administraatori jaoks lihtsamaks ja aitab hoida süsteemi korrastatuna.
 
 ---
 
-<details>
-<summary><strong>Services</strong></summary>
-
-- File Sharing (Samba / shared folder)  
-- Web Server (Nginx / Apache)  
-- Optional: Nextcloud (private cloud)
-
-</details>
+## Veebiserver
+Veebiserveri lisamise valimise, kuna see võimaldab majutada sisemist infot, näiteks kooliga seotud teavet. 
 
 ---
 
-<details>
-<summary><strong>Users</strong></summary>
-
-- Admin (full access)  
-- Student (limited access)  
-- Role-based permissions  
-
-</details>
+## Kasutajarollid (admin ja student)
+Kasutusele võtame rollipõhise ligipääsu, kus admin kasutajal on täielikud õigused ning student kasutajal piiratud ligipääs. 
 
 ---
 
-<details>
-<summary><strong>Security</strong></summary>
-
-- Strong passwords  
-- Firewall enabled (UFW)  
-- Only necessary ports open  
-- Root login disabled  
-- Internal network isolation  
-
-</details>
+## Turvameetmed
+Turvalisuse tagamiseks rakendame mitmeid meetmeid. Kasutame tugevaid paroole, et vältida volitamata ligipääsu. Tulemüür (UFW) lubab ainult vajalikud ühendused. Root kasutaja otsene sisselogimine on keelatud, mis vähendab rünnakute riski. Lisaks on aktiivsed ainult vajalikud teenused, mis vähendab võimalikke ründevektoreid.
 
 ---
 
-<details>
-<summary><strong>GitHub Documentation</strong></summary>
-
-- README.md – project overview  
-- team.md – team roles  
-- infrastructure.md – system setup  
-- services.md – services description  
-- configs/ – configuration files  
-
-</details>
+## Dockeri kasutamine 
+Dockerit kasutame, kuna see lihtsustab teenuste paigaldamist ja haldamist. See tagab ühtlase keskkonna erinevates süsteemides, vähendab konfiguratsioonivigu ning muudab süsteemi lihtsamini hallatavaks ja laiendatavaks.
 
 ---
-
-<details>
-<summary><strong>Technologies</strong></summary>
-
-- Linux (Ubuntu Server)  
-- Docker (optional)  
-- Nginx / Apache  
-- Samba / file sharing  
-
-</details>
-
----
-
-<details>
-<summary><strong>Usage</strong></summary>
-
-- Students access files and services  
-- Admin manages system and users  
-- Services run locally on server  
-
-</details>
