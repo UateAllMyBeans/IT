@@ -14,6 +14,7 @@ Staatiline IP-aadressi valisime, kuna server peab olema alati kättesaadav sama 
 
 ## Sisemine võrk
 Sisemine võrgu valisime, kuna see eraldab süsteemi välisest internetist ning vähendab turvariske.
+
 ---
 
 ## Failijagamise teenus
