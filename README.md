@@ -1,4 +1,4 @@
-# IT Infrastructure Project
+# IT Infrastruktuuri projekt
 
 # Disainiotsused ja põhjendused
 
