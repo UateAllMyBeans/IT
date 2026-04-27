@@ -1,3 +1,3 @@
-Meeskond: Kaur Voolar - Otsustav Isik
-          Stefan Sarv
+Meeskond: Kaur Voolar - Otsustav Isik,
+          Stefan Sarv,
           Bo Arlen Kristjanson
