@@ -1,6 +1,3 @@
-# IT
-IT infrastraktuur
-
 # IT Infrastructure Project
 
 # Disainiotsused ja põhjendused
