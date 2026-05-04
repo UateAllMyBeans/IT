@@ -3,7 +3,7 @@
 # Disainiotsused ja põhjendused
 
 ## Operatsioonisüsteem – Linux server (Ubuntu)
-Valisime Ubnutu linux serveri, kuna see on avatud lähtekoodiga ja tasuta, mistõttu puuduvad litsentsikulud. Lisaks on see ressursisäästlik ning sobib hästi serverikeskkonda. 
+Valisime Ubuntu linux serveri, kuna see on avatud lähtekoodiga ja tasuta, mistõttu puuduvad litsentsikulud. Lisaks on see ressursisäästlik ning sobib hästi serverikeskkonda. 
 
 ---
 
@@ -18,7 +18,7 @@ Sisemine võrgu valisime, kuna see eraldab süsteemi välisest internetist ning 
 ---
 
 ## Failijagamise teenus
-Failijagamise teenuse valisime, kuna see võimaldab õpilastel faile lihtsalt jagada ja kasutada. Kõik failid paiknevad keskserveris, mis teeb haldamise administraatori jaoks lihtsamaks ja aitab hoida süsteemi korrastatuna.
+Failijagamise teenuse valisime, kuna see võimaldab õpilastel faile lihtsalt jagada ja kasutada. Kõik failid paiknevad keskserveris, mis teeb haldamise administraatori jaoks lihtsamaks ja aitab hoida süsteemi korrastatuna. Failijagamise teenuseks kasutame Sambat.
 
 ---
 
