@@ -3,7 +3,7 @@
 # Disainiotsused ja põhjendused
 
 ## Operatsioonisüsteem – Linux server (Ubuntu)
-Linux serveri valisime, kuna see on avatud lähtekoodiga ja tasuta, mistõttu puuduvad litsentsikulud. Lisaks on see ressursisäästlik ning sobib hästi serverikeskkonda. 
+Valisime Ubnutu linux serveri, kuna see on avatud lähtekoodiga ja tasuta, mistõttu puuduvad litsentsikulud. Lisaks on see ressursisäästlik ning sobib hästi serverikeskkonda. 
 
 ---
 
