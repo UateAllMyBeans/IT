@@ -13,7 +13,7 @@ Staatiline IP-aadressi valisime, kuna server peab olema alati kättesaadav sama 
 ---
 
 ## Sisemine võrk
-Sisemine võrgu valisime, kuna see eraldab süsteemi välisest internetist ning vähendab turvariske.
+Sisemine võrgu valisime, kuna see eraldab süsteemi välisest internetist ning vähendab turvariske. Õpilased saavad VPN-ida sisse kui vaja väljast poolt kooli ligipääsu teenustele või failiserverile. 
 
 ---
 
