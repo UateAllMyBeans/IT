@@ -34,3 +34,5 @@ Student1 saab student1 folderile ligi, aga näiteks student2 folderile ei saa li
 Iga studenti parool on student(number), näiteks kasutaja: student1 parool: student1 
 
 Lisasime Dockeri, et serveri haldus ja kasutus oleks lihtsam ja saaks kasutada kindlaid programme vajadusel
+Commands: sudo apt update
+          sudo apt install ca-certificates curl gnupg -y
