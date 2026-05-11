@@ -7,6 +7,12 @@ Valisime Ubuntu linux serveri, kuna see on avatud lähtekoodiga ja tasuta, mist�
 
 ---
 
+Õpilaste tööjaamad – Windows 11
+
+Õpilaste arvutites kasutame Windows 11 operatsioonisüsteemi, kuna see on laialdaselt kasutatav ja kasutajasõbralik. Windows 11 pakub head ühilduvust erinevate õppetööks vajalike programmide ja rakendustega ning võimaldab lihtsat ühendamist kooli võrgu ja failiserveriga. Lisaks on õpilastel süsteem tuttav, mis muudab igapäevase kasutamise lihtsamaks ja vähendab tehniliste probleemide tekkimist.
+
+---
+
 ## Staatiline IP-aadress
 Staatiline IP-aadressi valisime, kuna server peab olema alati kättesaadav sama aadressi kaudu. See tagab stabiilse ligipääsu teenustele, nagu failijagamine ja veebiserver, ning lihtsustab seadistamist ja vigade tuvastamist. 
 
