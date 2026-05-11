@@ -32,3 +32,5 @@ sudo chmod 770 /shared/students/student1-16.
 Kokkuvõte:
 Student1 saab student1 folderile ligi, aga näiteks student2 folderile ei saa ligipääsu. Teacher saab igat folderi accessida.
 Iga studenti parool on student(number), näiteks kasutaja: student1 parool: student1 
+
+Lisasime Dockeri, et serveri haldus ja kasutus oleks lihtsam ja saaks kasutada kindlaid programme vajadusel
