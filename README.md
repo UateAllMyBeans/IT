@@ -2,7 +2,7 @@
 
 # Disainiotsused ja põhjendused
 
-## Operatsioonisüsteem – Linux server (Ubuntu)
+## Operatsioonisüsteem – Linux server (Ubuntu) ja Windows 11
 Valisime Ubuntu linux serveri, kuna see on avatud lähtekoodiga ja tasuta, mistõttu puuduvad litsentsikulud. Lisaks on see ressursisäästlik ning sobib hästi serverikeskkonda. 
 
 ---
